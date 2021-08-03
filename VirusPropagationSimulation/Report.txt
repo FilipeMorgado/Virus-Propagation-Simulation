@@ -1,0 +1,67 @@
+		------------------------------------Relatorio Final da Simulacao------------------------------------
+
+		Apos 6 iteracoes, a distribuicao das pessoas foi a seguinte: 
+
+
+
+Total de espacos: 6
+Total de pessoas: 21
+Foram adicionadas 1 pessoas
+____________________________________________________________________________________________________
+ID: 10	Capacidade: 3		1->Ligacao: 20  || 	2->Ligacao: 2  || 	3->Ligacao: -1  ||
+----------------------------------------------------------------------------------------------------
+
+	 Nome: SofiaA	 Idade: 23	 Estado: S
+	 Nome: MarcoMarquesAAA	 Idade: 40	 Estado: I
+	 Nome: Zulmira2A	 Idade: 17	 Estado: S
+	 Nome: SandraS	 Idade: 56	 Estado: D	 Dias Infetado: 1
+	 Nome: HugoC	 Idade: 14	 Estado: D	 Dias Infetado: 5
+	 Nome: SandraMotaA1	 Idade: 24	 Estado: S
+	 Nome: joao	 Idade: 55	 Estado: D	 Dias Infetado: 1
+____________________________________________________________________________________________________
+ID: 20	Capacidade: 0		1->Ligacao: 10  || 	2->Ligacao: 30  || 	3->Ligacao: 4  ||
+----------------------------------------------------------------------------------------------------
+
+	 Nome: Tomas111	 Idade: 12	 Estado: I
+	 Nome: PauloPires2	 Idade: 67	 Estado: D	 Dias Infetado: 10
+____________________________________________________________________________________________________
+ID: 30	Capacidade: 5		1->Ligacao: 20  || 	2->Ligacao: 6  || 	3->Ligacao: -1  ||
+----------------------------------------------------------------------------------------------------
+
+	 Nome: SamuelSimoes	 Idade: 56	 Estado: D	 Dias Infetado: 1
+	 Nome: HugoB	 Idade: 25	 Estado: S
+	 Nome: Carlos1	 Idade: 20	 Estado: D	 Dias Infetado: 3
+	 Nome: CarlaCardoso	 Idade: 34	 Estado: D	 Dias Infetado: 7
+	 Nome: LeonardoL	 Idade: 10	 Estado: S
+____________________________________________________________________________________________________
+ID: 2	Capacidade: 6		1->Ligacao: 10  || 	2->Ligacao: 4  || 	3->Ligacao: -1  ||
+----------------------------------------------------------------------------------------------------
+
+	 Nome: PauloPires1	 Idade: 23	 Estado: S
+	 Nome: PauloAlves123	 Idade: 34	 Estado: D	 Dias Infetado: 4
+	 Nome: DianaD	 Idade: 89	 Estado: S
+	 Nome: TobiasF	 Idade: 98	 Estado: S
+____________________________________________________________________________________________________
+ID: 4	Capacidade: 47		1->Ligacao: 2  || 	2->Ligacao: 6  || 	3->Ligacao: 20  ||
+----------------------------------------------------------------------------------------------------
+
+	 Nome: Olivia1	 Idade: 12	 Estado: S
+	 Nome: HugoA	 Idade: 20	 Estado: S
+	 Nome: PedroPedra	 Idade: 27	 Estado: S
+____________________________________________________________________________________________________
+ID: 6	Capacidade: 10		1->Ligacao: 30  || 	2->Ligacao: 4  || 	3->Ligacao: -1  ||
+----------------------------------------------------------------------------------------------------
+
+
+		------------------------------------Estatistica final------------------------------------
+
+Existem 11 pessoas saudaveis, a sua taxa e de: 52.38 %
+Existem 2 pessoas Imunes, a sua taxa e de: 9.52 %
+Existem 8 pessoas Infetadas, a sua taxa e de: 38.10 %
+
+Existem 7 pessoas na sala: 10
+Existem 2 pessoas na sala: 20
+Existem 5 pessoas na sala: 30
+Existem 4 pessoas na sala: 2
+Existem 3 pessoas na sala: 4
+Existem 0 pessoas na sala: 6
